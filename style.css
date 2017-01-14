@@ -1,0 +1,27 @@
+#firsth1{
+	color: pink;
+}
+#secondh1{
+	color: purple;
+}
+#thirdh1{
+	color: lime;
+}
+
+#TOC{
+	margin-left: 20px;
+	border: thin solid green;
+	margin-bottom: 1000px: 
+	width: 600px;
+	background-color: pink;
+}
+.dogpic{
+	hieght: 100vh;
+	display: inline-block;
+}
+
+#dogwrap{
+	height: 600px;
+	width: 1000px;
+	background-color: transparent: black, 80; 
+}
